@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c932c"],{"57b6":function(n,c,t){"use strict";t.r(c);var e=t("7a23");function o(n,c,t,o,u,w){return Object(e["n"])(),Object(e["c"])("div")}var u={setup:function(){},created:function(){window.location.href="https://www.youtube.com/XINHE"}};u.render=o;c["default"]=u}}]);
+//# sourceMappingURL=chunk-2d0c932c.d2d0d607.js.map

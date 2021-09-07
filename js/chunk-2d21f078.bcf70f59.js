@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21f078"],{d7a0:function(n,c,t){"use strict";t.r(c);var e=t("7a23");function o(n,c,t,o,a,i){return Object(e["n"])(),Object(e["c"])("div")}var a={setup:function(){},created:function(){window.location.href="https://www.facebook.com/iamXINHE/"}};a.render=o;c["default"]=a}}]);
+//# sourceMappingURL=chunk-2d21f078.bcf70f59.js.map
