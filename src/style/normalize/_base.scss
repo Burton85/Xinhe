@@ -1,0 +1,35 @@
+/* Font */
+@font-face {
+    font-family: 'Lato';
+    src: url('./assets/font/S6u9w4BMUTPHh6UVSwiPGQ.woff2'); 
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html {
+    font-size: 10px;
+}
+*,body {
+    box-sizing: border-box;
+    font-family: $fontfamily;
+    font-size: 2rem;
+    font-weight: 400;
+}
+#app {
+    display: block;
+    margin: auto;
+    font-family: $fontfamily;
+    a {
+        text-decoration: none;
+        outline: none;
+        cursor: pointer;
+    }
+    button {
+        outline: none;
+    }
+}
