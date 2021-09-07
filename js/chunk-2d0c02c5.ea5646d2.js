@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c02c5"],{"413e":function(n,c,t){"use strict";t.r(c);var e=t("7a23");function i(n,c,t,i,o,a){return Object(e["n"])(),Object(e["c"])("div")}var o={setup:function(){},created:function(){window.location.href="https://www.instagram.com/iamxinhe/"}};o.render=i;c["default"]=o}}]);
+//# sourceMappingURL=chunk-2d0c02c5.ea5646d2.js.map
